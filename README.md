@@ -89,12 +89,7 @@ innovative smart grid technologies europe (ISGT europe)*, Oct. 2021,
 doi:
 [10.1109/isgteurope52324.2021.9639919](https://doi.org/10.1109/isgteurope52324.2021.9639919).
 
-\[15\] C. Kittl, J. Hiry, T. Oberließen, D. S. Sarma, and C. Rehtanz,
-“Agent-based and behavioral system participant modeling within
-discrete-event distributionsystem simulation framework,” in *Proceedings
-of 22<sup>nd</sup> power systems computational conference (pscc)*, 2022.
-
-\[16\] J. Hiry, C. Kittl, D. S. Sarma, T. Oberließen, and C. Rehtanz,
+\[15\] J. Hiry, C. Kittl, D. S. Sarma, T. Oberließen, and C. Rehtanz,
 “Multi-voltage level distributed backward-forward sweep power flow
 algorithm in an agent-based discrete-event simulation framework,” in
 *22<sup>nd</sup> power systems computation conference (pscc)*, 2022.
